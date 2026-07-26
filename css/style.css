@@ -179,7 +179,7 @@ body::before{
 .logo{
 
 
-    font-size:90px;
+    font-size:110px;
 
 
     margin-bottom:10px;
@@ -202,7 +202,7 @@ body::before{
 .login-card h1{
 
 
-    font-size:36px;
+    font-size:42px;
 
 
     letter-spacing:2px;
@@ -248,7 +248,7 @@ body::before{
     width:100%;
 
 
-    height:55px;
+    height:65px;
 
 
     margin:10px 0;
@@ -325,7 +325,7 @@ body::before{
     width:100%;
 
 
-    height:60px;
+    height:70px;
 
 
     border:none;
@@ -443,9 +443,11 @@ body::before{
 
 .login-card{
 
-    width:90%;
+    width:450px;
 
-    padding:35px 25px;
+    padding:55px 45px;
+
+    border-radius:40px;
 
 }
 
